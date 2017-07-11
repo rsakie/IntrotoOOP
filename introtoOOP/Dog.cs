@@ -76,11 +76,13 @@ namespace introtoOOP
             else
             {
                 Console.WriteLine("your dog just relieved itself");
-            
+            }
+        }
+
             public void Cuddle()
         {
             Console.WriteLine("awww, doggo is so sweet");
         }
 
-        }
     }
+}
