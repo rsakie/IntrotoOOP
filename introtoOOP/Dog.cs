@@ -79,7 +79,7 @@ namespace introtoOOP
             }
         }
 
-            public void Cuddle()
+        public void Cuddle()
         {
             Console.WriteLine("awww, doggo is so sweet");
         }
